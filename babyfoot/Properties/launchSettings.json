@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "babyfoot": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
